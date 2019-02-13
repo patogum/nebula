@@ -1,0 +1,5 @@
+dependencies {
+  classpath 'com.netflix.nebula:gradle-lint-plugin:latest.release'
+}
+
+apply plugin: 'nebula.lint'
